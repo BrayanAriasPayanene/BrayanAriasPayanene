@@ -2,7 +2,7 @@
 
 Soy desarrollador de software en formación, apasionado por la tecnología, el aprendizaje constante y la creación de soluciones web.
 
-🧠 Actualmente trabajando en proyectos de práctica y clonado de interfaces.  
+🧠 Actualmente trabajando en proyectos personales.  
 🎯 Mi enfoque está en HTML, CSS, React y JavaScript.  
 🌱 Estoy aprendiendo tecnologías como React, Node.js y Git.  
 
